@@ -54,7 +54,5 @@
 ## You can also find me here:  
 
 <p>
-    <a href="https://stackoverflow.com/users/3318657/shahab"><img src="https://image.flaticon.com/icons/png/512/2111/2111628.png" width="30px" alt="stackoverflow"></a> &nbsp; &nbsp;
-    <a href="https://www.linkedin.com/in/shahabshakoor"><img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="30px" alt="LinkedIn">     </a> &nbsp; &nbsp;
-    <a href="mailto:shahabi1209@gmail.com"><img alt="Gmail" src="https://saberenemquimicaefisica.com.br/wp/wp-content/uploads/2019/05/gmail.png" title="Email" width="30px" /></a>  &nbsp; &nbsp;
+    <a href="https://www.linkedin.com/in/muneeb-khan-31b721121/"><img src="https://img2.gratispng.com/20171202/f59/linkedin-download-png-5a22d420d16602.1978549215122319688577.jpg" width="30px" alt="LinkedIn">     </a> &nbsp; &nbsp;
 </p>
