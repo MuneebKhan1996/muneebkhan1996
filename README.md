@@ -9,7 +9,7 @@
 
 - 🌱 Always eager to learn new technologies and develop new projects. Determined to complete any task in hand
 
-- 🕵️‍♂️ I'm a good goolger
+- 🕵️‍♂️ I'm a good googler
 
 - 👨‍💻 Some of my projects are available here --> <code><a href="https://github.com/MuneebKhan1996" title="GitHub Profile"><img width="22" src="https://b.thumbs.redditmedia.com/AltCa25flSy96k0VDTcXUseNPu25FWaInEl1LOvkbqs.png"> GitHub</a></code>
 [](https://github.com/MuneebKhan1996)
